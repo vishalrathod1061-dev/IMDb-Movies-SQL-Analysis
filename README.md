@@ -81,7 +81,4 @@ Successfully performed SQL-based analysis on IMDb movie and director data. Extra
 
 This project helped improve my practical SQL skills, database querying, data filtering, aggregation, and table joining techniques.
 
-## 👨‍💻 Author
-**Vishal Rathod**
 
-Data Analyst | Certified Data Analyst
